@@ -1,0 +1,5 @@
+{
+  "description": "Una aplicación profesional para la gestión del rol de Product Owner, incluyendo generador de planes de trabajo y KPIs dinámicos impulsados por Gemini 3 Pro.",
+  "requestFramePermissions": [],
+  "name": "App"
+}
